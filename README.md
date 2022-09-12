@@ -72,8 +72,15 @@ By using both methods, both voice and traffic can be significantly reduced.
 
 ## Timetable
 Timetable for the project is available as a Gantt chart in the root folder of the project.
+## Milestones
+* Research noise reduction methods in headphones 
+* Select methods to solve problem 
+* Create soft- and hardware  
+* User test 
+* Hand over to production 
+
 ## Sources of information
-Miljøstyrrelsen - Traffic noise https://eng.mst.dk/air-noise-waste/noise/traffic-noise/     
-Won-Pyoung Kang, Hak-Ryong Moon and You-Jin Lim - A Comparative Study Reducing Road Noise using Active Noise Cancelation    
+Miljøstyrrelsen - Traffic noise (2022, September 12) Retrieved from https://eng.mst.dk/air-noise-waste/noise/traffic-noise/       
+Kang, W. P., Moon, H. R., & Lim, Y. J. (2014). A Comparative Study Reducing Road Noise Using Active Noise Cancelation. In Applied Mechanics and Materials (Vol. 641, pp. 793-798). Trans Tech Publications Ltd.     
 Liu, H., Liu, S., Shkel, A. A., & Kim, E. S. (2020). Active noise cancellation with MEMS resonant microphone array. Journal of Microelectromechanical Systems, 29(5), 839-845.  
 Guldenschuh, M., & Höldrich, R. (2013). Prediction filter design for active noise cancellation headphones. IET Signal Processing, 7(6), 497-504.
