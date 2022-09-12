@@ -22,7 +22,10 @@ This project will not design headphones.
 This project will use SCRUM as a development methodology.
 
 ## Risk assessment
-
+| Risk        | Likelihood  | Severity    | Product     | Mitigation  | Identifier | Responsible  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ---------- | ------------ |
+| Hardware provider fails to deliver      | 1           | 4           | 4           | Change provider      | Late delivery/No delivery |  Person 1 |
+| Item 2      | 3           | 2           | 6           | Do thing    | Other thing happens | Person 2|
 ## Analysis
 
 ## Requirements
@@ -51,6 +54,11 @@ This section contains the requirements determined for the project. The requireme
 * Should be able to play audio from multiple sources
 
 * Could be controllable via a phone app
+
+## Research
+ANC can be done in two overall ways, either Adaptive or Active Noise cancelling. Both are ways to remove ambient noise. 
+Adaptive NC predicts the incoming noise, where as Active is more stationary (Guldenschuh, Hördrich. 2013, p. 497)
+
 ## Timetable
 Timetable for the project is available as a Gantt chart in the root folder of the project.
 ## Sources of information
